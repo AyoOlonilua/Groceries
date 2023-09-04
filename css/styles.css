@@ -3,6 +3,9 @@
 * {
     font-family: 'Roboto', sans-serif;
 }
+body {
+    background-size: cover;
+}
 #show {
     display: none;
     color: white;
