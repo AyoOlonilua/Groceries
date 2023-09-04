@@ -15,7 +15,7 @@ By AYO-OLONILUA AYOMIPE
 
 # Description
 
-It is used for saving the inputed items, sort the inputed iems in alphabetical order and then displaying it in a capitalised form.
+It saves the inputed items, sort the inputed iems in alphabetical order and then displaying it in a capitalised form.
 
 # Setup/Installation Requirements
 
