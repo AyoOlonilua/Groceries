@@ -4,7 +4,15 @@
     font-family: 'Roboto', sans-serif;
 }
 body {
+    background-image: url(/img/);
     background-size: cover;
+}
+.groceries {
+    background-image: url(/img/supermarket-background-with-food-icons-vector-31638466.jpg);
+    background-size: cover;
+}
+section {
+    opacity: 80%;
 }
 #show {
     display: none;
