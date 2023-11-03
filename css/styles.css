@@ -3,21 +3,21 @@
 * {
     font-family: 'Roboto', sans-serif;
 }
-body {
-    background-image: url(/img/);
-    background-size: cover;
-}
-.groceries {
-    background-image: url(/img/supermarket-background-with-food-icons-vector-31638466.jpg);
-    background-size: cover;
+.background img {
+    width: 100%;
+    height: max-content;
+    position: absolute;
+    z-index: -1;
+    top: 0;
 }
 section {
     opacity: 80%;
 }
 #show {
     display: none;
-    color: white;
-    background-color: blue;
+    color: #222;
+    font-weight: bolder;
+    background-color: antiquewhite;
     padding: 30px;
     list-style-type: decimal;
 }
